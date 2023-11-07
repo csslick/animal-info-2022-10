@@ -17,6 +17,8 @@ ul {
 
 body {
     font-family: 'Roboto', '맑은 고딕', sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 header {
